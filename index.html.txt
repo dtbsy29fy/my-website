@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>こんにちは</title>
+</head>
+<body>
+  <h1>はじめてのホームページ</h1>
+  <p>GitHubで世界に公開するよ！</p>
+</body>
+</html>
